@@ -1,9 +1,17 @@
 # IoT---2022-1
 Tarefas de IoT 2022-1.
 
-Code-pisca_led_sem_delay1.ino -> Image / Tarefa: Fazer uma função para o led conectado a um arduino piscar sem usar a função delay.
-Piscar Led sem Delay.png -> Image / Tarefa: Fazer uma função para o led conectado a um arduino piscar sem usar a função delay.
+Tarefa 2: controlar dois servos motores por ponteciometros, cada servo deve ser conectado a um ponteciemtro independente.
 
-servomotor_e_potencimetro1.ino -> Code, language C / Tarefa: controlar dois servos motores por ponteciometros, cada servo deve ser conectado a um ponteciemtro independente.
-Servomotor e Potenciômetro.png -> Image / Tarefa: controlar dois servos motores por ponteciometros, cada servo deve ser conectado a um ponteciemtro independente.
+Tarefa2_Servomotor_e_potencimetro1.ino [code, language C]
+Servomotor e Potenciômetro.png [image, Tinkercad]
+
+Tarefa 1: Fazer uma função para o led conectado a um arduino piscar sem usar a função delay.Arquivos:
+
+Tarefa1_Pisca_led_sem_delay.ino [code, language C]
+Piscar Led sem Delay.png [image, Tinkercad]
+
+
+
+
 
